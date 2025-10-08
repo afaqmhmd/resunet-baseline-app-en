@@ -2,7 +2,13 @@
 
 This project explores **automatic baseline correction** in 1D signals.
 The goal is to train a **ResUNet-1D** model capable of removing complex nonlinear baselines from synthetic signals containing oscillatory dynamics and low-frequency drifts.
+
+---
+
 The streamlit app is accessible here : https://resunet-baseline-removal.streamlit.app/
+
+---
+
 If I made any mistake or if you have any advice, please contact me here : afaqmhmd@gmail.com
 
 ---
